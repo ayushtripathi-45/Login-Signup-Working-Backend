@@ -15,8 +15,7 @@ This project demonstrates secure user authentication with a clean UI, backend AP
 - Separated **Frontend & Backend**
 - Production-ready project structure
 ---
-### Live :
----
+
 
 ## 🛠️ Tech Stack
 
