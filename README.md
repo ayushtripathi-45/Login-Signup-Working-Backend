@@ -61,6 +61,13 @@ fullstack-login-signup/
  - User roles
 
  - Input validation
+---
+## Preview :
+
+
+https://github.com/user-attachments/assets/0016d3bd-cd24-4c58-8325-32a297051fd9
+
+
 
 ---
 
