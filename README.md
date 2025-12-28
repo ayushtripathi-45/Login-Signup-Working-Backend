@@ -63,7 +63,9 @@ fullstack-login-signup/
  - Input validation
 ---
 ## Preview :
+<img width="1365" height="652" alt="Screenshot 2025-12-27 180010" src="https://github.com/user-attachments/assets/45ef2f0a-7e88-4112-9a0f-75068bec3090" />
 
+<img width="1365" height="648" alt="Screenshot 2025-12-27 175948" src="https://github.com/user-attachments/assets/d7052765-90ff-40ca-b319-10f02df56726" />
 
 https://github.com/user-attachments/assets/0016d3bd-cd24-4c58-8325-32a297051fd9
 
