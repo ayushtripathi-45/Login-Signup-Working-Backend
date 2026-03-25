@@ -6,7 +6,7 @@ This project demonstrates secure user authentication with a clean UI, backend AP
 ---
 
 ## 🚀 Features
-
+  
 - User **Signup & Login**
 - Secure **password hashing** using bcrypt
 - **MySQL database** integration
